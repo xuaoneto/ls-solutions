@@ -1,2 +1,2 @@
-name = "Alice";
+const name = "Alice";
 console.log(`Hello, ${name}!`);
